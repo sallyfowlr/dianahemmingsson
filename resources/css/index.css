@@ -1,0 +1,32 @@
+* {
+    font-family: 'Mukta', sans-serif;
+  }
+  
+  html{
+      background-color: #ABB6BD;
+  } 
+  header {
+    color: rgb(23, 41, 35);
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(../dianaheader.png);
+    background-size: cover;
+    width: 400px;
+    padding: 10px 50px 100px;
+    opacity: 0.7;
+    border: solid black 10px;
+  }
+   
+   body{
+       text-align: center;
+   }
+  p, 
+  li {
+    font-size: 18px;
+    list-style-position: inside;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
